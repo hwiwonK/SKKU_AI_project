@@ -33,4 +33,3 @@ python main.py train {데이터셋파일이름} {모델이름}
 python main.py test {데이터셋파일이름} {모델이름}
 
 # path to your data
-이메일 전송
